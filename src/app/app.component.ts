@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import './PolymerComponents/icon-toggle.js';
 
 @Component({
   selector: 'app-root',
